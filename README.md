@@ -1,4 +1,5 @@
 auth-avl
 --------
 
-An implementation of https://iohk.io/research/papers/improving-authenticated-dynamic-dictionaries-with-applications-to-cryptocurrencies/
+An implementation of Authenticated Data Structure (specialised to AVL) as
+described by [eprint 2016/994](https://eprint.iacr.org/2016/994.pdf).
